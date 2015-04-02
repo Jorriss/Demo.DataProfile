@@ -1,7 +1,7 @@
 # Demo.DataProfile
 This project are the demos to the The Quest to Find Bad Data with Data Profiling presentation. For more information on the presentation go to http://www.jorriss.net/blog/dataprofilequest.
 
-## What's in here
+## What's In Here
 There are two projects and one SQL Script:
 
 * SSISDataProfile - This is a SSIS project that demonstrates the usage of the Data Profile Task. I uses the StackOverflow databse.
